@@ -82,3 +82,4 @@ or you can try type this in the terminal for Linux " npm i ffmpeg "
 * If you don't care about the osu command or you don't want to get an api key go into the "/commands/utility/" folder and delete the osu.js command. 
 
 > This Bot was made by [Aaronidk/aaronokiay]().
+[![Run on Repl.it](https://repl.it/badge/github/Aaronidk/Dorito-bot-discord.js)](https://repl.it/github/Aaronidk/Dorito-bot-discord.js)
